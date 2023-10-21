@@ -298,10 +298,6 @@
             <key type="filename">../effect/explosion/explosion_9_5.png</key>
             <key type="filename">../gui/no_1.png</key>
             <key type="filename">../gui/yes_1.png</key>
-            <key type="filename">../icon/book/icon_book_2_1.png</key>
-            <key type="filename">../icon/book/icon_book_2_2.png</key>
-            <key type="filename">../icon/book/icon_book_2_3.png</key>
-            <key type="filename">../icon/book/icon_book_2_4.png</key>
             <key type="filename">../icon/potion/potion_4_1.png</key>
             <key type="filename">../icon/potion/potion_4_2.png</key>
             <key type="filename">../icon/potion/potion_4_3.png</key>
@@ -902,6 +898,69 @@
             <key type="filename">../creature/number/creature_1_98.png</key>
             <key type="filename">../creature/number/creature_1_99.png</key>
             <key type="filename">../effect/laser/laser_3.png</key>
+            <key type="filename">../icon/book/icon_book_1_1.png</key>
+            <key type="filename">../icon/book/icon_book_1_10.png</key>
+            <key type="filename">../icon/book/icon_book_1_11.png</key>
+            <key type="filename">../icon/book/icon_book_1_12.png</key>
+            <key type="filename">../icon/book/icon_book_1_13.png</key>
+            <key type="filename">../icon/book/icon_book_1_14.png</key>
+            <key type="filename">../icon/book/icon_book_1_15.png</key>
+            <key type="filename">../icon/book/icon_book_1_16.png</key>
+            <key type="filename">../icon/book/icon_book_1_17.png</key>
+            <key type="filename">../icon/book/icon_book_1_18.png</key>
+            <key type="filename">../icon/book/icon_book_1_19.png</key>
+            <key type="filename">../icon/book/icon_book_1_2.png</key>
+            <key type="filename">../icon/book/icon_book_1_20.png</key>
+            <key type="filename">../icon/book/icon_book_1_21.png</key>
+            <key type="filename">../icon/book/icon_book_1_22.png</key>
+            <key type="filename">../icon/book/icon_book_1_23.png</key>
+            <key type="filename">../icon/book/icon_book_1_24.png</key>
+            <key type="filename">../icon/book/icon_book_1_25.png</key>
+            <key type="filename">../icon/book/icon_book_1_26.png</key>
+            <key type="filename">../icon/book/icon_book_1_27.png</key>
+            <key type="filename">../icon/book/icon_book_1_28.png</key>
+            <key type="filename">../icon/book/icon_book_1_29.png</key>
+            <key type="filename">../icon/book/icon_book_1_3.png</key>
+            <key type="filename">../icon/book/icon_book_1_30.png</key>
+            <key type="filename">../icon/book/icon_book_1_31.png</key>
+            <key type="filename">../icon/book/icon_book_1_32.png</key>
+            <key type="filename">../icon/book/icon_book_1_33.png</key>
+            <key type="filename">../icon/book/icon_book_1_34.png</key>
+            <key type="filename">../icon/book/icon_book_1_35.png</key>
+            <key type="filename">../icon/book/icon_book_1_36.png</key>
+            <key type="filename">../icon/book/icon_book_1_37.png</key>
+            <key type="filename">../icon/book/icon_book_1_38.png</key>
+            <key type="filename">../icon/book/icon_book_1_39.png</key>
+            <key type="filename">../icon/book/icon_book_1_4.png</key>
+            <key type="filename">../icon/book/icon_book_1_40.png</key>
+            <key type="filename">../icon/book/icon_book_1_41.png</key>
+            <key type="filename">../icon/book/icon_book_1_42.png</key>
+            <key type="filename">../icon/book/icon_book_1_43.png</key>
+            <key type="filename">../icon/book/icon_book_1_44.png</key>
+            <key type="filename">../icon/book/icon_book_1_45.png</key>
+            <key type="filename">../icon/book/icon_book_1_46.png</key>
+            <key type="filename">../icon/book/icon_book_1_47.png</key>
+            <key type="filename">../icon/book/icon_book_1_48.png</key>
+            <key type="filename">../icon/book/icon_book_1_49.png</key>
+            <key type="filename">../icon/book/icon_book_1_5.png</key>
+            <key type="filename">../icon/book/icon_book_1_50.png</key>
+            <key type="filename">../icon/book/icon_book_1_51.png</key>
+            <key type="filename">../icon/book/icon_book_1_52.png</key>
+            <key type="filename">../icon/book/icon_book_1_53.png</key>
+            <key type="filename">../icon/book/icon_book_1_54.png</key>
+            <key type="filename">../icon/book/icon_book_1_55.png</key>
+            <key type="filename">../icon/book/icon_book_1_56.png</key>
+            <key type="filename">../icon/book/icon_book_1_57.png</key>
+            <key type="filename">../icon/book/icon_book_1_58.png</key>
+            <key type="filename">../icon/book/icon_book_1_59.png</key>
+            <key type="filename">../icon/book/icon_book_1_6.png</key>
+            <key type="filename">../icon/book/icon_book_1_60.png</key>
+            <key type="filename">../icon/book/icon_book_1_61.png</key>
+            <key type="filename">../icon/book/icon_book_1_62.png</key>
+            <key type="filename">../icon/book/icon_book_1_63.png</key>
+            <key type="filename">../icon/book/icon_book_1_7.png</key>
+            <key type="filename">../icon/book/icon_book_1_8.png</key>
+            <key type="filename">../icon/book/icon_book_1_9.png</key>
             <key type="filename">../tile/floor_1.png</key>
             <key type="filename">../tile/floor_10.png</key>
             <key type="filename">../tile/floor_11.png</key>
@@ -989,18 +1048,6 @@
             <key type="filename">../crucible/crucible_4_7.png</key>
             <key type="filename">../crucible/crucible_4_8.png</key>
             <key type="filename">../crucible/crucible_4_9.png</key>
-            <key type="filename">../crucible/crucible_6_1.png</key>
-            <key type="filename">../crucible/crucible_6_10.png</key>
-            <key type="filename">../crucible/crucible_6_11.png</key>
-            <key type="filename">../crucible/crucible_6_12.png</key>
-            <key type="filename">../crucible/crucible_6_2.png</key>
-            <key type="filename">../crucible/crucible_6_3.png</key>
-            <key type="filename">../crucible/crucible_6_4.png</key>
-            <key type="filename">../crucible/crucible_6_5.png</key>
-            <key type="filename">../crucible/crucible_6_6.png</key>
-            <key type="filename">../crucible/crucible_6_7.png</key>
-            <key type="filename">../crucible/crucible_6_8.png</key>
-            <key type="filename">../crucible/crucible_6_9.png</key>
             <key type="filename">../symbol/symbol_2_137.png</key>
             <key type="filename">../symbol/symbol_2_138.png</key>
             <key type="filename">../symbol/symbol_2_139.png</key>
@@ -3885,18 +3932,6 @@
                     <filename>../crucible/crucible_4_7.png</filename>
                     <filename>../crucible/crucible_4_8.png</filename>
                     <filename>../crucible/crucible_4_9.png</filename>
-                    <filename>../crucible/crucible_6_1.png</filename>
-                    <filename>../crucible/crucible_6_10.png</filename>
-                    <filename>../crucible/crucible_6_11.png</filename>
-                    <filename>../crucible/crucible_6_12.png</filename>
-                    <filename>../crucible/crucible_6_2.png</filename>
-                    <filename>../crucible/crucible_6_3.png</filename>
-                    <filename>../crucible/crucible_6_4.png</filename>
-                    <filename>../crucible/crucible_6_5.png</filename>
-                    <filename>../crucible/crucible_6_6.png</filename>
-                    <filename>../crucible/crucible_6_7.png</filename>
-                    <filename>../crucible/crucible_6_8.png</filename>
-                    <filename>../crucible/crucible_6_9.png</filename>
                     <filename>../cheses/cheses_1_1.png</filename>
                     <filename>../cheses/cheses_1_10.png</filename>
                     <filename>../cheses/cheses_1_11.png</filename>
@@ -4560,10 +4595,6 @@
                     <filename>../icon/potion/potion_4_2.png</filename>
                     <filename>../icon/potion/potion_4_3.png</filename>
                     <filename>../icon/potion/potion_4_4.png</filename>
-                    <filename>../icon/book/icon_book_2_1.png</filename>
-                    <filename>../icon/book/icon_book_2_2.png</filename>
-                    <filename>../icon/book/icon_book_2_3.png</filename>
-                    <filename>../icon/book/icon_book_2_4.png</filename>
                     <filename>../symbol/symbol_1_289.png</filename>
                     <filename>../symbol/symbol_1_290.png</filename>
                     <filename>../symbol/symbol_1_291.png</filename>
@@ -4616,6 +4647,69 @@
                     <filename>../tile/grass_2.png</filename>
                     <filename>../tile/grass_3.png</filename>
                     <filename>../tile/grass_4.png</filename>
+                    <filename>../icon/book/icon_book_1_1.png</filename>
+                    <filename>../icon/book/icon_book_1_10.png</filename>
+                    <filename>../icon/book/icon_book_1_11.png</filename>
+                    <filename>../icon/book/icon_book_1_12.png</filename>
+                    <filename>../icon/book/icon_book_1_13.png</filename>
+                    <filename>../icon/book/icon_book_1_14.png</filename>
+                    <filename>../icon/book/icon_book_1_15.png</filename>
+                    <filename>../icon/book/icon_book_1_16.png</filename>
+                    <filename>../icon/book/icon_book_1_17.png</filename>
+                    <filename>../icon/book/icon_book_1_18.png</filename>
+                    <filename>../icon/book/icon_book_1_19.png</filename>
+                    <filename>../icon/book/icon_book_1_2.png</filename>
+                    <filename>../icon/book/icon_book_1_20.png</filename>
+                    <filename>../icon/book/icon_book_1_21.png</filename>
+                    <filename>../icon/book/icon_book_1_22.png</filename>
+                    <filename>../icon/book/icon_book_1_23.png</filename>
+                    <filename>../icon/book/icon_book_1_24.png</filename>
+                    <filename>../icon/book/icon_book_1_25.png</filename>
+                    <filename>../icon/book/icon_book_1_26.png</filename>
+                    <filename>../icon/book/icon_book_1_27.png</filename>
+                    <filename>../icon/book/icon_book_1_28.png</filename>
+                    <filename>../icon/book/icon_book_1_29.png</filename>
+                    <filename>../icon/book/icon_book_1_3.png</filename>
+                    <filename>../icon/book/icon_book_1_30.png</filename>
+                    <filename>../icon/book/icon_book_1_31.png</filename>
+                    <filename>../icon/book/icon_book_1_32.png</filename>
+                    <filename>../icon/book/icon_book_1_33.png</filename>
+                    <filename>../icon/book/icon_book_1_34.png</filename>
+                    <filename>../icon/book/icon_book_1_35.png</filename>
+                    <filename>../icon/book/icon_book_1_36.png</filename>
+                    <filename>../icon/book/icon_book_1_37.png</filename>
+                    <filename>../icon/book/icon_book_1_38.png</filename>
+                    <filename>../icon/book/icon_book_1_39.png</filename>
+                    <filename>../icon/book/icon_book_1_4.png</filename>
+                    <filename>../icon/book/icon_book_1_40.png</filename>
+                    <filename>../icon/book/icon_book_1_41.png</filename>
+                    <filename>../icon/book/icon_book_1_42.png</filename>
+                    <filename>../icon/book/icon_book_1_43.png</filename>
+                    <filename>../icon/book/icon_book_1_44.png</filename>
+                    <filename>../icon/book/icon_book_1_45.png</filename>
+                    <filename>../icon/book/icon_book_1_46.png</filename>
+                    <filename>../icon/book/icon_book_1_47.png</filename>
+                    <filename>../icon/book/icon_book_1_48.png</filename>
+                    <filename>../icon/book/icon_book_1_49.png</filename>
+                    <filename>../icon/book/icon_book_1_5.png</filename>
+                    <filename>../icon/book/icon_book_1_50.png</filename>
+                    <filename>../icon/book/icon_book_1_51.png</filename>
+                    <filename>../icon/book/icon_book_1_52.png</filename>
+                    <filename>../icon/book/icon_book_1_53.png</filename>
+                    <filename>../icon/book/icon_book_1_54.png</filename>
+                    <filename>../icon/book/icon_book_1_55.png</filename>
+                    <filename>../icon/book/icon_book_1_56.png</filename>
+                    <filename>../icon/book/icon_book_1_57.png</filename>
+                    <filename>../icon/book/icon_book_1_58.png</filename>
+                    <filename>../icon/book/icon_book_1_59.png</filename>
+                    <filename>../icon/book/icon_book_1_6.png</filename>
+                    <filename>../icon/book/icon_book_1_60.png</filename>
+                    <filename>../icon/book/icon_book_1_61.png</filename>
+                    <filename>../icon/book/icon_book_1_62.png</filename>
+                    <filename>../icon/book/icon_book_1_63.png</filename>
+                    <filename>../icon/book/icon_book_1_7.png</filename>
+                    <filename>../icon/book/icon_book_1_8.png</filename>
+                    <filename>../icon/book/icon_book_1_9.png</filename>
                 </array>
             </struct>
         </map>
