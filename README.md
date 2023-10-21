@@ -1,2 +1,1 @@
-# xx2d_res
-free 2d game resources
+refine free 2d game resources download from https://itch.io/game-assets
