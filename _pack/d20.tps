@@ -1248,6 +1248,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../gui/border_3_2222.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>2,2,3,3</rect>
+                <key>scale9Paddings</key>
+                <rect>2,2,3,3</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../gui/border_4_1122.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>1,1,2,2</rect>
+                <key>scale9Paddings</key>
+                <rect>1,1,2,2</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../gui/dot_1_22.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -4710,6 +4740,8 @@
                     <filename>../icon/book/icon_book_1_7.png</filename>
                     <filename>../icon/book/icon_book_1_8.png</filename>
                     <filename>../icon/book/icon_book_1_9.png</filename>
+                    <filename>../gui/border_3_2222.png</filename>
+                    <filename>../gui/border_4_1122.png</filename>
                 </array>
             </struct>
         </map>

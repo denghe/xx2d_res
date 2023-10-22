@@ -1,0 +1,102 @@
+xx::List<xx::Ref<Frame>, int32_t>
+    frames_axe,
+    frames_blood_4,
+    frames_border_1,
+    frames_border_2,
+    frames_border_3,
+    frames_border_4,
+    frames_bullet,
+    frames_cheses_1,
+    frames_cheses_2,
+    frames_coin_1,
+    frames_coin_2,
+    frames_coin_3,
+    frames_creature_1,
+    frames_crucible_4,
+    frames_dagger,
+    frames_dot_1,
+    frames_explosion_12,
+    frames_explosion_1,
+    frames_explosion_9,
+    frames_eye_fire,
+    frames_firearrow,
+    frames_fireball_white,
+    frames_floor,
+    frames_gem_1,
+    frames_gem_2,
+    frames_grass,
+    frames_hammer,
+    frames_human_1,
+    frames_human_2,
+    frames_human_3,
+    frames_human_4,
+    frames_icon_book_1,
+    frames_knife,
+    frames_laser,
+    frames_lightning_2,
+    frames_mine,
+    frames_monster_1,
+    frames_monster_2,
+    frames_monster_3,
+    frames_no,
+    frames_number_drop,
+    frames_number_outlined,
+    frames_pointer,
+    frames_potion_4,
+    frames_staff,
+    frames_sword,
+    frames_symbol_1,
+    frames_symbol_2,
+    frames_wall,
+    frames_yes;
+
+        tp->GetToByPrefix(frames_axe            , "axe_"            );
+        tp->GetToByPrefix(frames_blood_4        , "blood_4_"        );
+        tp->GetToByPrefix(frames_border_1       , "border_1_"       );
+        tp->GetToByPrefix(frames_border_2       , "border_2_"       );
+        tp->GetToByPrefix(frames_border_3       , "border_3_"       );
+        tp->GetToByPrefix(frames_border_4       , "border_4_"       );
+        tp->GetToByPrefix(frames_bullet         , "bullet_"         );
+        tp->GetToByPrefix(frames_cheses_1       , "cheses_1_"       );
+        tp->GetToByPrefix(frames_cheses_2       , "cheses_2_"       );
+        tp->GetToByPrefix(frames_coin_1         , "coin_1_"         );
+        tp->GetToByPrefix(frames_coin_2         , "coin_2_"         );
+        tp->GetToByPrefix(frames_coin_3         , "coin_3_"         );
+        tp->GetToByPrefix(frames_creature_1     , "creature_1_"     );
+        tp->GetToByPrefix(frames_crucible_4     , "crucible_4_"     );
+        tp->GetToByPrefix(frames_dagger         , "dagger_"         );
+        tp->GetToByPrefix(frames_dot_1          , "dot_1_"          );
+        tp->GetToByPrefix(frames_explosion_12   , "explosion_12_"   );
+        tp->GetToByPrefix(frames_explosion_1    , "explosion_1_"    );
+        tp->GetToByPrefix(frames_explosion_9    , "explosion_9_"    );
+        tp->GetToByPrefix(frames_eye_fire       , "eye_fire_"       );
+        tp->GetToByPrefix(frames_firearrow      , "firearrow_"      );
+        tp->GetToByPrefix(frames_fireball_white , "fireball_white_" );
+        tp->GetToByPrefix(frames_floor          , "floor_"          );
+        tp->GetToByPrefix(frames_gem_1          , "gem_1_"          );
+        tp->GetToByPrefix(frames_gem_2          , "gem_2_"          );
+        tp->GetToByPrefix(frames_grass          , "grass_"          );
+        tp->GetToByPrefix(frames_hammer         , "hammer_"         );
+        tp->GetToByPrefix(frames_human_1        , "human_1_"        );
+        tp->GetToByPrefix(frames_human_2        , "human_2_"        );
+        tp->GetToByPrefix(frames_human_3        , "human_3_"        );
+        tp->GetToByPrefix(frames_human_4        , "human_4_"        );
+        tp->GetToByPrefix(frames_icon_book_1    , "icon_book_1_"    );
+        tp->GetToByPrefix(frames_knife          , "knife_"          );
+        tp->GetToByPrefix(frames_laser          , "laser_"          );
+        tp->GetToByPrefix(frames_lightning_2    , "lightning_2_"    );
+        tp->GetToByPrefix(frames_mine           , "mine_"           );
+        tp->GetToByPrefix(frames_monster_1      , "monster_1_"      );
+        tp->GetToByPrefix(frames_monster_2      , "monster_2_"      );
+        tp->GetToByPrefix(frames_monster_3      , "monster_3_"      );
+        tp->GetToByPrefix(frames_no             , "no_"             );
+        tp->GetToByPrefix(frames_number_drop    , "number_drop_"    );
+        tp->GetToByPrefix(frames_number_outlined, "number_outlined_");
+        tp->GetToByPrefix(frames_pointer        , "pointer_"        );
+        tp->GetToByPrefix(frames_potion_4       , "potion_4_"       );
+        tp->GetToByPrefix(frames_staff          , "staff_"          );
+        tp->GetToByPrefix(frames_sword          , "sword_"          );
+        tp->GetToByPrefix(frames_symbol_1       , "symbol_1_"       );
+        tp->GetToByPrefix(frames_symbol_2       , "symbol_2_"       );
+        tp->GetToByPrefix(frames_wall           , "wall_"           );
+        tp->GetToByPrefix(frames_yes            , "yes_"            );
